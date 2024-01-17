@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Views",
+    "\\Views\\Customers",
+    "\\Views\\Publishers",
+    "\\Views\\Roles",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Views\\Customers\\Delete.cshtml",
+  "PreviewInSolutionExplorer": false
+}

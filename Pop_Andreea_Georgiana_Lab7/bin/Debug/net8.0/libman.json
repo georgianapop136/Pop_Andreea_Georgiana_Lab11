@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "@microsoft/signalr@latest",
+      "destination": "wwwroot/js/signalr/",
+      "files": [
+        "dist/browser/signalr.js",
+        "dist/browser/signalr.min.js",
+        "README.md",
+        "package.json",
+        "src/XhrHttpClient.ts",
+        "src/WebSocketTransport.ts",
+        "src/Utils.ts",
+        "src/third-party-notices.txt",
+        "src/TextMessageFormat.ts",
+        "src/Subject.ts",
+        "src/Stream.ts",
+        "src/ServerSentEventsTransport.ts",
+        "src/Polyfills.ts",
+        "src/MessageBuffer.ts",
+        "src/LongPollingTransport.ts",
+        "src/Loggers.ts",
+        "src/JsonHubProtocol.ts",
+        "src/ITransport.ts",
+        "src/IStatefulReconnectOptions.ts",
+        "src/IRetryPolicy.ts",
+        "src/index.ts",
+        "src/ILogger.ts",
+        "src/IHubProtocol.ts",
+        "src/IHttpConnectionOptions.ts",
+        "src/IConnection.ts",
+        "src/HubConnectionBuilder.ts",
+        "src/HubConnection.ts",
+        "src/HttpConnection.ts",
+        "src/HttpClient.ts",
+        "src/HeaderNames.ts",
+        "src/HandshakeProtocol.ts",
+        "src/FetchHttpClient.ts",
+        "src/Errors.ts",
+        "src/DynamicImports.ts",
+        "src/DynamicImports.browser.ts",
+        "src/DefaultReconnectPolicy.ts",
+        "src/DefaultHttpClient.ts",
+        "src/browser-index.ts",
+        "src/AccessTokenHttpClient.ts",
+        "src/AbortController.ts"
+      ]
+    }
+  ]
+}

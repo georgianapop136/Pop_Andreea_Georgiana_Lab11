@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HmKhg4Qbo/faiVl1N2MqHa1xuEmE0xyq7OhEGijrc18=",
+  "Source": "GrpcCustomersService",
+  "BasePath": "_content/GrpcCustomersService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

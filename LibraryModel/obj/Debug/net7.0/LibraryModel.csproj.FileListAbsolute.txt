@@ -1,0 +1,14 @@
+D:\mediiProgramare\LibraryModel\bin\Debug\net7.0\LibraryModel.deps.json
+D:\mediiProgramare\LibraryModel\bin\Debug\net7.0\LibraryModel.runtimeconfig.json
+D:\mediiProgramare\LibraryModel\bin\Debug\net7.0\LibraryModel.dll
+D:\mediiProgramare\LibraryModel\bin\Debug\net7.0\LibraryModel.pdb
+D:\mediiProgramare\LibraryModel\obj\Debug\net7.0\LibraryModel.csproj.AssemblyReference.cache
+D:\mediiProgramare\LibraryModel\obj\Debug\net7.0\LibraryModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\mediiProgramare\LibraryModel\obj\Debug\net7.0\LibraryModel.AssemblyInfoInputs.cache
+D:\mediiProgramare\LibraryModel\obj\Debug\net7.0\LibraryModel.AssemblyInfo.cs
+D:\mediiProgramare\LibraryModel\obj\Debug\net7.0\LibraryModel.csproj.CoreCompileInputs.cache
+D:\mediiProgramare\LibraryModel\obj\Debug\net7.0\LibraryModel.dll
+D:\mediiProgramare\LibraryModel\obj\Debug\net7.0\refint\LibraryModel.dll
+D:\mediiProgramare\LibraryModel\obj\Debug\net7.0\LibraryModel.pdb
+D:\mediiProgramare\LibraryModel\obj\Debug\net7.0\LibraryModel.genruntimeconfig.cache
+D:\mediiProgramare\LibraryModel\obj\Debug\net7.0\ref\LibraryModel.dll
