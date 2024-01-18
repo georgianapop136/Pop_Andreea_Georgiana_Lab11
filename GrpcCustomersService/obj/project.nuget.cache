@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vfvahI9OhCHWZfxUBhJ0+Ux//bexww0rLV1rDhMHtdu4SPJBfypRCLFJ98RJTMSiJao6MgDJVvz7OPOlO9trlg==",
+  "dgSpecHash": "wIKGfzA46mSXXydmUKlviWHk8eJsUeOnySKq1pG1sA4IRMQzwLuM0tTLKZoFkDfNpdf7Z6wexxH/ZcUY7uROKw==",
   "success": true,
-  "projectFilePath": "D:\\mediiProgramare\\GrpcCustomersService\\GrpcCustomersService.csproj",
+  "projectFilePath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\GrpcCustomersService\\GrpcCustomersService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

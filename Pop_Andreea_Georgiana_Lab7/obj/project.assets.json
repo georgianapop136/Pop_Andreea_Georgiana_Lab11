@@ -8826,11 +8826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\Pop_Andreea_Georgiana_Lab2.csproj",
+      "projectUniqueName": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\Pop_Andreea_Georgiana_Lab2.csproj",
       "projectName": "Pop_Andreea_Georgiana_Lab2",
-      "projectPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\Pop_Andreea_Georgiana_Lab2.csproj",
+      "projectPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\Pop_Andreea_Georgiana_Lab2.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\obj\\",
+      "outputPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8847,8 +8847,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\mediiProgramare\\LibraryModel\\LibraryModel.csproj": {
-              "projectPath": "D:\\mediiProgramare\\LibraryModel\\LibraryModel.csproj"
+            "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\LibraryModel.csproj": {
+              "projectPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\LibraryModel.csproj"
             }
           }
         }

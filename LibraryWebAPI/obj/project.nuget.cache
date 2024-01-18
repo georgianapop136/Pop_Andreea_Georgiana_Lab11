@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ro1svc3crDKHMPVFTnW42Pfz95vAKEGczWLTC1QdmL05EOjC/PJwiS1v299Lcwdxz2oYJiv7YWVEP4SuWySeQg==",
+  "dgSpecHash": "fb2cig1oSxHqdVG7YuG6GTp3//zrQnRavNQGAPzAJyrVhvd6K2/17/uavbGGDWgiARjFBf4pycHjsX/qW+kZrA==",
   "success": true,
-  "projectFilePath": "D:\\mediiProgramare\\LibraryWebAPI\\LibraryWebAPI.csproj",
+  "projectFilePath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryWebAPI\\LibraryWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

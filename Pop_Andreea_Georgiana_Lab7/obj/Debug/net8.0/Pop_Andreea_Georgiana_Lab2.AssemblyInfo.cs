@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pop_Andreea_Georgiana_Lab2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1f7e3e2e831172016f74a15c3d07acfb88394fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f670d5ea5a059ba8f22b686ed0fef111e2afed63")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pop_Andreea_Georgiana_Lab2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pop_Andreea_Georgiana_Lab2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

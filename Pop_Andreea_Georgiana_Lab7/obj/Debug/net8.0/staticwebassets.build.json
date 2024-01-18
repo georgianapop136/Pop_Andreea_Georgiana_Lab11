@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tpnx7cq2jFyZBXfmTfQkMX376K8+ENGrVoQBs/cSdBY=",
+  "Hash": "oVrwqar7gKVYpXDHiUukKVcOVeng4p8o5D/GGE3fKxw=",
   "Source": "Pop_Andreea_Georgiana_Lab2",
   "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Pop_Andreea_Georgiana_Lab2\\wwwroot",
       "Source": "Pop_Andreea_Georgiana_Lab2",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "Pattern": "**"
     }
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "C:\\Users\\georg\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pop_Andreea_Georgiana_Lab2.styles.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pop_Andreea_Georgiana_Lab2.styles.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "Pop_Andreea_Georgiana_Lab2.styles.css",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pop_Andreea_Georgiana_Lab2.styles.css"
+      "OriginalItemSpec": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pop_Andreea_Georgiana_Lab2.styles.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pop_Andreea_Georgiana_Lab2.bundle.scp.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pop_Andreea_Georgiana_Lab2.bundle.scp.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "Pop_Andreea_Georgiana_Lab2.bundle.scp.css",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pop_Andreea_Georgiana_Lab2.bundle.scp.css"
+      "OriginalItemSpec": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pop_Andreea_Georgiana_Lab2.bundle.scp.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\css\\site.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\css\\site.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\favicon.ico",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\favicon.ico",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\chat.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\chat.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/chat.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chat.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/dist/browser/signalr.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/dist/browser/signalr.min.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\package.json",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\package.json",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/package.json",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\package.json"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\package-lock.json",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\package-lock.json",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/package-lock.json",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\package-lock.json"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\README.md",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\README.md",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/README.md",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\README.md"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\AbortController.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\AbortController.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/AbortController.ts",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\AbortController.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\AccessTokenHttpClient.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\AccessTokenHttpClient.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/AccessTokenHttpClient.ts",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\AccessTokenHttpClient.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\browser-index.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\browser-index.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/browser-index.ts",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\browser-index.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DefaultHttpClient.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DefaultHttpClient.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/DefaultHttpClient.ts",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\DefaultHttpClient.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DefaultReconnectPolicy.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DefaultReconnectPolicy.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/DefaultReconnectPolicy.ts",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\DefaultReconnectPolicy.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DynamicImports.browser.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DynamicImports.browser.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/DynamicImports.browser.ts",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\DynamicImports.browser.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DynamicImports.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DynamicImports.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/DynamicImports.ts",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\DynamicImports.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Errors.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Errors.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/Errors.ts",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\Errors.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\FetchHttpClient.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\FetchHttpClient.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/FetchHttpClient.ts",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\FetchHttpClient.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HandshakeProtocol.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HandshakeProtocol.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/HandshakeProtocol.ts",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\HandshakeProtocol.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HeaderNames.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HeaderNames.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/HeaderNames.ts",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\HeaderNames.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HttpClient.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HttpClient.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/HttpClient.ts",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\HttpClient.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HttpConnection.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HttpConnection.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/HttpConnection.ts",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\HttpConnection.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HubConnection.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HubConnection.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/HubConnection.ts",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\HubConnection.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HubConnectionBuilder.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HubConnectionBuilder.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/HubConnectionBuilder.ts",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\HubConnectionBuilder.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IConnection.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IConnection.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/IConnection.ts",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\IConnection.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IHttpConnectionOptions.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IHttpConnectionOptions.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/IHttpConnectionOptions.ts",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\IHttpConnectionOptions.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IHubProtocol.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IHubProtocol.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/IHubProtocol.ts",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\IHubProtocol.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ILogger.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ILogger.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/ILogger.ts",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\ILogger.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\index.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\index.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/index.ts",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\index.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IRetryPolicy.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IRetryPolicy.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/IRetryPolicy.ts",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\IRetryPolicy.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IStatefulReconnectOptions.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IStatefulReconnectOptions.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/IStatefulReconnectOptions.ts",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\IStatefulReconnectOptions.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ITransport.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ITransport.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/ITransport.ts",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\ITransport.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\JsonHubProtocol.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\JsonHubProtocol.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/JsonHubProtocol.ts",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\JsonHubProtocol.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Loggers.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Loggers.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/Loggers.ts",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\Loggers.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\LongPollingTransport.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\LongPollingTransport.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/LongPollingTransport.ts",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\LongPollingTransport.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\MessageBuffer.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\MessageBuffer.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/MessageBuffer.ts",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\MessageBuffer.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Polyfills.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Polyfills.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/Polyfills.ts",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\Polyfills.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ServerSentEventsTransport.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ServerSentEventsTransport.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/ServerSentEventsTransport.ts",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\ServerSentEventsTransport.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Stream.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Stream.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/Stream.ts",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\Stream.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Subject.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Subject.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/Subject.ts",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\Subject.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\TextMessageFormat.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\TextMessageFormat.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/TextMessageFormat.ts",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\TextMessageFormat.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\third-party-notices.txt",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\third-party-notices.txt",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/third-party-notices.txt",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\third-party-notices.txt"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Utils.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Utils.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/Utils.ts",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\Utils.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\WebSocketTransport.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\WebSocketTransport.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/WebSocketTransport.ts",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\WebSocketTransport.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\XhrHttpClient.ts",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\XhrHttpClient.ts",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/signalr/src/XhrHttpClient.ts",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\src\\XhrHttpClient.ts"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\site.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\site.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Pop_Andreea_Georgiana_Lab2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
+      "ContentRoot": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\",
       "BasePath": "_content/Pop_Andreea_Georgiana_Lab2",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

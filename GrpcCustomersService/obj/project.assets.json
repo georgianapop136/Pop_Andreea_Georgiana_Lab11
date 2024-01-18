@@ -4799,11 +4799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mediiProgramare\\GrpcCustomersService\\GrpcCustomersService.csproj",
+      "projectUniqueName": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\GrpcCustomersService\\GrpcCustomersService.csproj",
       "projectName": "GrpcCustomersService",
-      "projectPath": "D:\\mediiProgramare\\GrpcCustomersService\\GrpcCustomersService.csproj",
+      "projectPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\GrpcCustomersService\\GrpcCustomersService.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "D:\\mediiProgramare\\GrpcCustomersService\\obj\\",
+      "outputPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\GrpcCustomersService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4820,8 +4820,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\mediiProgramare\\LibraryModel\\LibraryModel.csproj": {
-              "projectPath": "D:\\mediiProgramare\\LibraryModel\\LibraryModel.csproj"
+            "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\LibraryModel.csproj": {
+              "projectPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\LibraryModel.csproj"
             }
           }
         }

@@ -4365,11 +4365,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mediiProgramare\\LibraryModel\\LibraryModel.csproj",
+      "projectUniqueName": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\LibraryModel.csproj",
       "projectName": "LibraryModel",
-      "projectPath": "D:\\mediiProgramare\\LibraryModel\\LibraryModel.csproj",
+      "projectPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\LibraryModel.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "D:\\mediiProgramare\\LibraryModel\\obj\\",
+      "outputPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",

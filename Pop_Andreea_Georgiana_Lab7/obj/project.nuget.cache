@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/NETj7t/02g7/RTJcbXYUwEUev3QeU9sh818Sxm9olcwWLqu4c1tDZCRvaasX9MsxHpyUtBLd1XzlI3eFg0ZqQ==",
+  "dgSpecHash": "hzC+aSpfiDhKPxbReb+vGrTXd5ga27xA/E0wqOWdLIHlIBFeetCXdd0Tm58WOoYtAs1GTf6T+DXJjchIvp5Lxg==",
   "success": true,
-  "projectFilePath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\Pop_Andreea_Georgiana_Lab2.csproj",
+  "projectFilePath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\Pop_Andreea_Georgiana_Lab2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

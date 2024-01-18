@@ -1,415 +1,415 @@
 {
   "Files": [
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pop_Andreea_Georgiana_Lab2.bundle.scp.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pop_Andreea_Georgiana_Lab2.bundle.scp.css",
       "PackagePath": "staticwebassets\\Pop_Andreea_Georgiana_Lab2.bundle.scp.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\css\\site.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\favicon.ico",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\chat.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\chat.js",
       "PackagePath": "staticwebassets\\js\\chat.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\README.md",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\README.md",
       "PackagePath": "staticwebassets\\js\\signalr\\README.md"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
       "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\package-lock.json",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\package-lock.json",
       "PackagePath": "staticwebassets\\js\\signalr\\package-lock.json"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\package.json",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\package.json",
       "PackagePath": "staticwebassets\\js\\signalr\\package.json"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\AbortController.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\AbortController.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\AbortController.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\AccessTokenHttpClient.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\AccessTokenHttpClient.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\AccessTokenHttpClient.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DefaultHttpClient.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DefaultHttpClient.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\DefaultHttpClient.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DefaultReconnectPolicy.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DefaultReconnectPolicy.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\DefaultReconnectPolicy.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DynamicImports.browser.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DynamicImports.browser.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\DynamicImports.browser.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DynamicImports.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\DynamicImports.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\DynamicImports.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Errors.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Errors.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\Errors.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\FetchHttpClient.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\FetchHttpClient.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\FetchHttpClient.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HandshakeProtocol.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HandshakeProtocol.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\HandshakeProtocol.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HeaderNames.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HeaderNames.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\HeaderNames.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HttpClient.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HttpClient.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\HttpClient.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HttpConnection.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HttpConnection.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\HttpConnection.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HubConnection.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HubConnection.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\HubConnection.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HubConnectionBuilder.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\HubConnectionBuilder.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\HubConnectionBuilder.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IConnection.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IConnection.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\IConnection.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IHttpConnectionOptions.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IHttpConnectionOptions.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\IHttpConnectionOptions.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IHubProtocol.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IHubProtocol.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\IHubProtocol.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ILogger.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ILogger.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\ILogger.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IRetryPolicy.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IRetryPolicy.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\IRetryPolicy.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IStatefulReconnectOptions.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\IStatefulReconnectOptions.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\IStatefulReconnectOptions.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ITransport.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ITransport.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\ITransport.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\JsonHubProtocol.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\JsonHubProtocol.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\JsonHubProtocol.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Loggers.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Loggers.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\Loggers.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\LongPollingTransport.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\LongPollingTransport.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\LongPollingTransport.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\MessageBuffer.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\MessageBuffer.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\MessageBuffer.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Polyfills.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Polyfills.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\Polyfills.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ServerSentEventsTransport.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\ServerSentEventsTransport.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\ServerSentEventsTransport.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Stream.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Stream.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\Stream.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Subject.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Subject.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\Subject.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\TextMessageFormat.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\TextMessageFormat.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\TextMessageFormat.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Utils.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\Utils.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\Utils.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\WebSocketTransport.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\WebSocketTransport.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\WebSocketTransport.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\XhrHttpClient.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\XhrHttpClient.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\XhrHttpClient.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\browser-index.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\browser-index.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\browser-index.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\index.ts",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\index.ts",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\index.ts"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\third-party-notices.txt",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\signalr\\src\\third-party-notices.txt",
       "PackagePath": "staticwebassets\\js\\signalr\\src\\third-party-notices.txt"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\site.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\Pop_Andreea_Georgiana_Lab7\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mediiProgramare\\LibraryWebAPI\\LibraryWebAPI.csproj": {}
+    "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryWebAPI\\LibraryWebAPI.csproj": {}
   },
   "projects": {
-    "D:\\mediiProgramare\\LibraryModel\\LibraryModel.csproj": {
+    "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\LibraryModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mediiProgramare\\LibraryModel\\LibraryModel.csproj",
+        "projectUniqueName": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\LibraryModel.csproj",
         "projectName": "LibraryModel",
-        "projectPath": "D:\\mediiProgramare\\LibraryModel\\LibraryModel.csproj",
+        "projectPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\LibraryModel.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "D:\\mediiProgramare\\LibraryModel\\obj\\",
+        "outputPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,14 +97,14 @@
         }
       }
     },
-    "D:\\mediiProgramare\\LibraryWebAPI\\LibraryWebAPI.csproj": {
+    "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryWebAPI\\LibraryWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mediiProgramare\\LibraryWebAPI\\LibraryWebAPI.csproj",
+        "projectUniqueName": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryWebAPI\\LibraryWebAPI.csproj",
         "projectName": "LibraryWebAPI",
-        "projectPath": "D:\\mediiProgramare\\LibraryWebAPI\\LibraryWebAPI.csproj",
+        "projectPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryWebAPI\\LibraryWebAPI.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "D:\\mediiProgramare\\LibraryWebAPI\\obj\\",
+        "outputPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,8 +121,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\mediiProgramare\\LibraryModel\\LibraryModel.csproj": {
-                "projectPath": "D:\\mediiProgramare\\LibraryModel\\LibraryModel.csproj"
+              "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\LibraryModel.csproj": {
+                "projectPath": "D:\\mediiProgramare\\Pop_Andreea_Georgiana_Lab11\\LibraryModel\\LibraryModel.csproj"
               }
             }
           }
